@@ -10,7 +10,7 @@ resources:
     endpoint: mgunukula
     name: mgunukula/DemoApp
 
-  - repository:
+  - repository: ScheduledJobs
     type: github
     endpoint: mgunukula
     name: mgunukula/ScheduledJobs
